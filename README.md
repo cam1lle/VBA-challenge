@@ -15,5 +15,3 @@ Analyzing stock data for multiple worksheets and calculating various statistics 
 - - -
 
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
->>>>>>> 3a74cc9 (Initial commit)
-# 02_VBA
