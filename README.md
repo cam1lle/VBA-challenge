@@ -26,5 +26,3 @@ To enhance the functionality and efficiency of the VBA script, the following con
 * Dataset Selection: During the development and testing of the code, the "alphabetical_testing.xlsx" dataset was used. This smaller dataset allows for quicker testing and validation of the script, ensuring it runs within a reasonable time frame (under 3 to 5 minutes).
 
 Please refer to the VBA script files included in the project repository for a detailed view of the code implementation and data analysis.
-
-Note: This README file provides an overview of the project and the actions taken. For more specific details, please refer to the project files and the VBA script itself included in the shared link.
