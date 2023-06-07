@@ -3,9 +3,6 @@
 ## Background
 In this homework assignment, I used VBA scripting to analyze generated stock market data. The goal was to loop through the stocks for one year, calculate various metrics, and identify stocks with the greatest percentage increase, greatest percentage decrease, and greatest total volume. Conditional formatting was applied to highlight positive and negative changes in green and red, respectively.
 
-## Files
-The project files can be accessed using the following link: VBA Challenge Files
-
 ## Analysis Instructions
 To analyze the stock market data, I performed the following tasks using VBA scripting:
 
